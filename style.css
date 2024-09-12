@@ -1,0 +1,92 @@
+header{
+   background-image:  url("tower.jpg");
+   height: 500px;
+   background-size: cover;
+   text-align: center;
+   border: auto;
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+   gap: 10px;
+}
+h1{
+    background: #1d3557 ;
+    width: 500px;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    width: 500px;
+    background: #1d3557;
+}
+
+.subtitle{
+ padding: 1px;;
+ color:#e63946;
+ text-align: center;
+    width: 500px;
+    background: #1d3557;
+}
+.heading{
+    text-align: center;
+}
+.activities-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px 30px;
+    background-color: #a8dadc;
+}
+#title{
+    padding-left:auto;
+    color: #e63946;
+    background-color: #1d3557; 
+}
+.column{
+    display: flex;
+    justify-content: space-between;
+    float: left;
+
+}
+.image{
+    border-radius: 50%;
+    width: 80px;
+    height: 80px;
+}
+.attractions{
+    text-align: center;
+    padding: 0 30px;
+    margin: 0 25px;
+    
+}
+
+
+h4{
+    padding-top: 5%;
+}
+.me{
+    width: 150px;
+    border-radius: 60px;
+}
+.bom{
+    width: 400px;
+    margin:0 auto;
+    padding-left: 50px;
+    display: flex;
+    justify-content: space-around;
+    background-color:whitesmoke;
+    color:palevioletred;
+    border-bottom:5px solid rgb(196, 35, 62);
+    font-style: italic;
+    border-radius: 20px;
+    
+    
+    
+}
+.border-pink{
+    border: 1px double pink;
+}
+h4,p{
+    text-align: center;
+
+    }
